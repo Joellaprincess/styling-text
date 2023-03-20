@@ -7,7 +7,7 @@ body {
 img {
     width: 100%;
 }
-figcaption, .article-category, .sub-title, .author, time {
+figcaption, .article-category, .sub-title, a.author, .time {
     font-family: 'Open Sans', sans-serif;
 }
 .article-category {
@@ -39,4 +39,13 @@ a:hover {
 }
 a:hover {
     color: #ff3530;
+}
+a.author {
+    font-size: .85rem;
+}
+.time {
+    font-size: .85rem;
+}
+a.author {
+    margin-bottom: 0;
 }
