@@ -1,7 +1,9 @@
 body {
-font-family: 'Vesper Libre', serif;
-color: #1a1a1a;
-font: normal 1.125rem/1.5
-font-size: 1.125rem
-line-height: 1.5
+    font-family: 'Vesper Libre', serif;
+    color: #1a1a1a;
+    font-size: 1.125rem
+    line-height: 1.5
+}
+img {
+    width: 100%;
 }
