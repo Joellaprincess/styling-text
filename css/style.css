@@ -27,6 +27,16 @@ h1 {
 figcaption {
     font-size: .85rem;
     text-align: center;
-    text-decoration-color: #757575;
+    color: #757575;
     font-style: italic;
+}
+a:link {
+    color: #1a1a1a;
+    text-decoration: underline;   
+}
+a:hover {
+    text-decoration: none;
+}
+a:hover {
+    color: #ff3530;
 }
